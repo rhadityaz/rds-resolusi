@@ -5,3 +5,4 @@ rds resolusi
 -ganteng 
 -saya mau jadi programmer sukses
 -mau jadi backend
+-sh
